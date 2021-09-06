@@ -1,2 +1,2 @@
 # Inventory-management-assignment
-Assignment to be submitted to etg
+Json file based inventory management
